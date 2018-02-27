@@ -19,13 +19,13 @@
       border:none;
 
 }
-.slider{
+.banner{
       background-image: url(../Images/bg01.jpg);
       background-size: cover;
       background-attachment: fixed;
       padding:200px 0 280px 0;
 }
-.slider .block{
+.banner .block{
       text-align: center;
       color:#E3E3E4;
 }
