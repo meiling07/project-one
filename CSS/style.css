@@ -1,0 +1,16 @@
+.navigation{
+padding:20px 0;
+
+}
+.navbar, .navbar-default {
+background-color: #fff !important;
+border:none;
+}
+.navbar-brand{
+      background-image: url(../Images/logo.png);
+      width:50px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+
+}
