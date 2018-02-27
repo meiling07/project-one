@@ -1,11 +1,12 @@
 .navigation{
-padding:20px 0;
+      padding:20px 0;
 
 }
 .navbar, .navbar-default {
-background-color: #fff !important;
-border:none;
+      background-color: #fff !important;
+      border:none;
 }
+
 .navbar-brand{
       background-image: url(../Images/logo.png);
       width:50px;
@@ -13,4 +14,18 @@ border:none;
       background-repeat: no-repeat;
       background-position: center;
 
+}
+ .navbar-toggle{
+      border:none;
+
+}
+.slider{
+      background-image: url(../Images/bg01.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+      padding:200px 0 280px 0;
+}
+.slider .block{
+      text-align: center;
+      color:#E3E3E4;
 }
