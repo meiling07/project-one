@@ -1,18 +1,18 @@
+body{font:20px Montserrat, sans-serif;}
 .navigation{
-      padding:20px 0;
-
+      padding: 20px 0 ;
 }
 .navbar, .navbar-default {
       background-color: #fff !important;
       border:none;
 }
 
-.navbar-brand{
-      background-image: url(../Images/logo.png);
-      width:50px;
-      background-size: cover;
-      background-repeat: no-repeat;
-      background-position: center;
+
+.navbar-brand img{
+
+      max-width:90px;
+      max-height: 100px;
+      margin-top: -28px;
 
 }
  .navbar-toggle{
@@ -31,8 +31,21 @@
 }
 
 section.about{
-      padding:100px 0;
+      padding:90px 0;
+      background-color: #f2f2f2;
 }
 .about .block img{
       width:100%
+}
+
+section.service{
+
+      text-align:center;
+}
+
+.service .section-title{
+      padding:60px 0;
+}
+.service  .service-item{
+      margin-bottom: 30px;
 }
